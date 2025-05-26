@@ -12,16 +12,16 @@ To detect the presence of specific elements (such as nitrogen, sulfur, and halog
 
 <b>Name of Developer | <b> Dr Ravish Rajput 
 :--|:--|
-<b> Rajkiya Engineering College kannouj | <b>  
+<b> Institute |Rajkiya Engineering College kannouj <b>  
 <b> Email | ravishrajput@reck.ac.in    <b>  
-<b> Depatment | Applied Science 
+<b> Depatment | Applied Science  and Humanties
 
 ### Contributors List
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 Sujal Rastogi
-2 Saksham Saraswat
-3 Chandraj Kushwaha
-4 Md Sanaullah Ansari
+1  |Sujal Rastogi
+2  |Saksham Saraswat
+3  |Chandraj Kushwaha
+4  |Md Sanaullah Ansari
 
