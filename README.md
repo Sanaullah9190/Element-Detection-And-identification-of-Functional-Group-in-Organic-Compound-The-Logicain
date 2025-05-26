@@ -20,8 +20,8 @@ To detect the presence of specific elements (such as nitrogen, sulfur, and halog
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1  |Sujal Rastogi |Student |REC-K | sujalrastogi933@gmail.com
-2  |Saksham Saraswat |Student |REC-K | adityascience6@gmail.com
-3  |Chandraj Kushwaha |Student |REC-K | chandrajkushwaha98@gmail.com
-4  |Md Sanaullah Ansari |Student |REC-K | sanaullaht.social@gmail.com
+1  |Sujal Rastogi |Student |Electronics Engineering | REC-K | sujalrastogi933@gmail.com
+2  |Saksham Saraswat |Student | Electronics Engineering |REC-K | adityascience6@gmail.com
+3  |Chandraj Kushwaha |Student | Computer Science Engineering |REC-K | chandrajkushwaha98@gmail.com
+4  |Md Sanaullah Ansari |Student | Civil Engineering |REC-K | sanaullaht.social@gmail.com
 
