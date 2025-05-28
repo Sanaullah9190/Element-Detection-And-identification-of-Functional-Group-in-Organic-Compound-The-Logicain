@@ -1,1 +1,1 @@
-## Element detection and identification of functional groups in Organic Compounds.
+## Element detection in Organic Compounds : Lassaigne's Test
