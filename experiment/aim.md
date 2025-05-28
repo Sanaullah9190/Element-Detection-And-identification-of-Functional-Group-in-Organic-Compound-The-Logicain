@@ -1,1 +1,1 @@
-To detect the elements (nitrogen, sulfur, halogens) and identify the functional groups present in a given organic compound using qualitative analysis
+To detect the presence of elements (nitrogen, sulphur, chlorine, bromine and iodine) in organic compounds by Lassaigne's test.
