@@ -2,42 +2,38 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "Which reagent is used to fuse with the organic compound in Lassaigne's test?",
+      "question": "This is a Sample Question 1?",
       "answers": {
-        "a": "Copper",
-        "b": "Sodium",
-        "c": "Zinc",
-        "d": "Potassium"
+        "a": "answer1",
+        "b": "answer2",
+        "c": "answer3",
+        "d": "answer4"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "In Lassaigne’s test, sodium is fused with the organic compound to convert elements like nitrogen, sulfur, and halogens into ionic forms (NaCN, Na₂S, NaX) which are water-soluble and can be detected.
-",
+        "b": "Explanation 2",
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "b",
+      "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "2. What is formed when nitrogen is present in an organic compound and it is fused with sodium?
-",
+      "question": "This is a Sample Question 2?",
       "answers": {
-        "a": "Sodium nitrite (NaNO₂)",
-        "b": "Sodium cyanide (NaCN)",
-        "c": "Sodium nitrate (NaNO₃)",
-        "d": " Sodium azide (NaN₃)"
-
+        "a": "answer1",
+        "b": "answer2",
+        "c": "answer3",
+        "d": "answer4"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": " Nitrogen in the organic compound reacts with sodium to form NaCN, which is then detected using the Prussian blue test.
-",
+        "b": "Explanation 2",
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "b",
-      "difficulty": "medium"
+      "correctAnswer": "c",
+      "difficulty": "beginner"
     }
   ]
 }
