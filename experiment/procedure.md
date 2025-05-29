@@ -6,19 +6,23 @@
 
   
 
-Heat a small piece of dry sodium metal in a fusion tube until it melts. 
+(i)Heat a small piece of dry sodium metal in a fusion tube until it melts. 
 
  
 
-Add a small amount of the organic compound and heat strongly until red hot. 
+(ii)Add a small amount of the organic compound and heat strongly for 2-3 min until fusion tube gets red hot. 
 
  
 
-Plunge the hot tube into distilled water in a porcelain dish. 
+(iii)Dip the hot fusion tube into distilled water in a porcelain dish. 
+
+
+
+(iv)Break the fusion tube, And. 
 
  
 
-Boil the mixture, cool, and filter. The filtrate is the Lassaigne’s extract (L.E.). 
+(v)Boil the mixture for 5-8 min ,then cool mixture at room temperature and filter. The filtrate is the Sodium Fusion Extract also known as Lassaigne’s Extract (L.E.). 
 
   
 
@@ -26,15 +30,15 @@ Boil the mixture, cool, and filter. The filtrate is the Lassaigne’s extract (L
 
   
 
-To 2 mL of L.E., add FeSO₄ solution and heat. 
+(i)Add 2 ml of freshly prepared sodium extract, add FeSO₄ solution and heat for 2-5 min. 
 
  
 
-Add NaOH to make it alkaline. 
+(ii)Add NaOH to make it alkaline. 
 
  
 
-Cool and acidify with dilute H₂SO₄. 
+(iii)Cool at room temperature and acidify with dilute H₂SO₄. 
 
   
 
@@ -52,7 +56,7 @@ Formation of Prussian blue colour confirms nitrogen.
 
 (a) Lead Acetate Test:  
 
-Add lead acetate solution to 2 mL of L.E. and heat. 
+(i)Add lead acetate solution to 2 mL of freshly prepared sodium extract and heat. 
 
   
 
@@ -68,11 +72,11 @@ Formation of black ppt (PbS) indicates sulphur.
 
   
 
-Boil 2 mL of L.E. with dilute HNO₃ to remove interfering ions (like CN⁻, S²⁻). 
+(i)Boil 2 mL of freshly prepared sodium extract with dilute HNO₃ to remove interfering ions (like CN⁻, S²⁻). 
 
  
 
-Cool and add AgNO₃ solution.  
+(ii)Cool at room temperature and add 2-5 ml of AgNO₃ solution.  
 
   
 
