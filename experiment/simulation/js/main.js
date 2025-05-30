@@ -48,7 +48,7 @@ start.addEventListener('click', () => {
     sodium.style.display = "block"
     operatus.style.display = "block"
 
-    
+
     massage.innerText = "put sodium in fusion-tube"
 
 })
@@ -74,110 +74,193 @@ let halogen_vedio = document.getElementById('halogen-10')
 
 document.getElementById('sodium').addEventListener('click', () => {
     first_image.classList.remove("show")
-    first_vedio.style.display = "block"
 
-    
+    first_vedio.style.display = "block"
+    second_vedio.style.display = "none"
+    third_vedio.style.display = "none"
+    four_vedio.style.display = "none"
+    five_vedio.style.display = "none"
+    six_vedio.style.display = "none"
+    seven_vedio.style.display = "none"
+
+    nitrogen_vedio.style.display = "none"
+    sulphur_vedio.style.display = "none"
+    halogen_vedio.style.display = "none"
+
+
     setTimeout(() => {
         massage.innerText = "Click On fusion-Tube"
         test_tube.style.display = "block"
-        
+
     }, 4000);
 
 })
 
 document.getElementById('test-tube').addEventListener('click', () => {
+    // first_vedio.style.display = "none"
+    // second_vedio.style.display = "block"
+
     first_vedio.style.display = "none"
     second_vedio.style.display = "block"
+    third_vedio.style.display = "none"
+    four_vedio.style.display = "none"
+    five_vedio.style.display = "none"
+    six_vedio.style.display = "none"
+    seven_vedio.style.display = "none"
+
+    nitrogen_vedio.style.display = "none"
+    sulphur_vedio.style.display = "none"
+    halogen_vedio.style.display = "none"
 
     setTimeout(() => {
-       
+
         burnner.style.display = "block"
-    
+
         massage.innerText = "Click On Burner"
-        
+
     }, 3000);
 
 
 })
 
 document.getElementById('burnner').addEventListener('click', () => {
+    // second_vedio.style.display = "none"
+    // third_vedio.style.display = "block"
+
+    first_vedio.style.display = "none"
     second_vedio.style.display = "none"
     third_vedio.style.display = "block"
+    four_vedio.style.display = "none"
+    five_vedio.style.display = "none"
+    six_vedio.style.display = "none"
+    seven_vedio.style.display = "none"
+
+    nitrogen_vedio.style.display = "none"
+    sulphur_vedio.style.display = "none"
+    halogen_vedio.style.display = "none"
 
     setTimeout(() => {
-        
+
         compound.style.display = "block"
-    
+
         massage.innerText = "Select The Compound "
-        
+
     }, 2000);
 
 })
 
 
-const selfFunc = ()=>{
+const selfFunc = () => {
     const selectElement = document.getElementById("mySelect");
     selectElement.addEventListener("change", function () {
         let selectedValue = this.value
-        
-    
+
+
         if (selectedValue === "option-1") {
-    
-            third_vedio.style.display = "none" 
+
+            // third_vedio.style.display = "none"
+            // four_vedio.style.display = "block"
+
+            first_vedio.style.display = "none"
+            second_vedio.style.display = "none"
+            third_vedio.style.display = "none"
             four_vedio.style.display = "block"
-        
+            five_vedio.style.display = "none"
+            six_vedio.style.display = "none"
+            seven_vedio.style.display = "none"
+
+            nitrogen_vedio.style.display = "none"
+            sulphur_vedio.style.display = "none"
+            halogen_vedio.style.display = "none"
+
             test_tube.style.display = "none"
-    
-            setTimeout(() => {  
+
+            setTimeout(() => {
                 sec_test_tube.style.display = "block"
                 massage.innerText = "Click On fusion-Tube "
-                
+
             }, 4000);
-        } 
-    
-        
+        }
+
+
     });
 
 }
 selfFunc()
 
 document.getElementById('test-tube-2').addEventListener('click', () => {
+    // four_vedio.style.display = "none"
+    // five_vedio.style.display = "block"
+
+    first_vedio.style.display = "none"
+    second_vedio.style.display = "none"
+    third_vedio.style.display = "none"
     four_vedio.style.display = "none"
     five_vedio.style.display = "block"
+    six_vedio.style.display = "none"
+    seven_vedio.style.display = "none"
+
+    nitrogen_vedio.style.display = "none"
+    sulphur_vedio.style.display = "none"
+    halogen_vedio.style.display = "none"
 
 
     setTimeout(() => {
-        
-        smach.style.display = "block" 
-    
+
+        smach.style.display = "block"
+
         massage.innerText = "Click On Glass Rod For Smash "
-        
+
     }, 4000);
     // beaker.style.display = "block"
 })
 
 document.getElementById('smach').addEventListener('click', () => {
+    // five_vedio.style.display = "none"
+    // six_vedio.style.display = "block"
+
+    first_vedio.style.display = "none"
+    second_vedio.style.display = "none"
+    third_vedio.style.display = "none"
+    four_vedio.style.display = "none"
     five_vedio.style.display = "none"
     six_vedio.style.display = "block"
+    seven_vedio.style.display = "none"
+
+    nitrogen_vedio.style.display = "none"
+    sulphur_vedio.style.display = "none"
+    halogen_vedio.style.display = "none"
 
     setTimeout(() => {
-        
+
         filter.style.display = "block"
         massage.innerText = "Click On Filter Paper"
-        
+
     }, 9000);
 
 })
 
 document.getElementById('filter').addEventListener('click', () => {
-    
+
+    // six_vedio.style.display = "none"
+    // seven_vedio.style.display = "block"
+
+    first_vedio.style.display = "none"
+    second_vedio.style.display = "none"
+    third_vedio.style.display = "none"
+    four_vedio.style.display = "none"
+    five_vedio.style.display = "none"
     six_vedio.style.display = "none"
     seven_vedio.style.display = "block"
+
+    nitrogen_vedio.style.display = "none"
+    sulphur_vedio.style.display = "none"
+    halogen_vedio.style.display = "none"
 
     setTimeout(() => {
         test.style.display = "block"
         massage.innerText = "Select The Test"
-        
+
     }, 11000);
 
 })
@@ -187,7 +270,7 @@ document.getElementById('filter').addEventListener('click', () => {
 const testElement = document.getElementById("testSelect");
 testElement.addEventListener("change", function () {
     let testValue = this.value;
-    
+
 
     seven_vedio.style.display = "none"
 
@@ -199,10 +282,10 @@ testElement.addEventListener("change", function () {
 
         setTimeout(() => {
             massage.innerText = "Nitrogen Test Pass"
-        
+
         }, 20000);
     }
-    else if(testValue === "option2"){
+    else if (testValue === "option2") {
 
         nitrogen_vedio.style.display = "none"
         sulphur_vedio.style.display = "block"
@@ -210,10 +293,10 @@ testElement.addEventListener("change", function () {
 
         setTimeout(() => {
             massage.innerText = "Sulphur Test Pass"
-        
+
         }, 11000);
 
-    }else if(testValue === "option3") {
+    } else if (testValue === "option3") {
 
         nitrogen_vedio.style.display = "none"
         sulphur_vedio.style.display = "none"
@@ -221,12 +304,12 @@ testElement.addEventListener("change", function () {
 
         setTimeout(() => {
             massage.innerText = "Halogen Test Pass"
-        
+
         }, 10000);
         console.log("clicked")
 
     }
-    
+
 });
 
 
