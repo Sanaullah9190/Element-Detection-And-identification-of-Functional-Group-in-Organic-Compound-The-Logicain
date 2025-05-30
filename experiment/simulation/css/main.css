@@ -6,6 +6,7 @@ html{
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
 }
 .main-container {
@@ -15,6 +16,12 @@ html{
     align-items: center;
     flex-direction: column;
     gap: 20px;
+}
+h1{
+    padding: 1vw;
+    box-shadow: 1px 1px 8px rgb(97, 96, 96);
+    border-radius: 8px;
+    font-size: x-large;
 }
 .instruction {
     display: flex;
@@ -148,5 +155,73 @@ html{
     transform: scale(1.2);
 }
 
+@media only screen and (max-width: 768px) {
+    .main-container {
+        padding: 10px;
+        gap: 10px;
+    }
+
+    .massage {
+        font-size: large;
+        padding: 6px;
+    }
+
+    .vedio-box {
+        width: 95vw;
+        height: 50vh;
+    }
+
+    .image-1 img,
+    .vedio-content {
+        height: 49vh;
+    }
+
+    .buttons {
+        gap: 3vw;
+        flex-wrap: wrap;
+    }
+
+    .buttons img {
+        width: 8vw;
+        height: 5vh;
+    }
+
+    .oparatus {
+        padding: 3vw;
+    }
+
+    .start {
+        padding: 8px 15px;
+        font-size: 14px;
+    }
+
+    select {
+        font-size: 12px;
+        padding: 2px;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    .massage {
+        font-size: medium;
+    }
+
+    .vedio-box {
+        height: 40vh;
+    }
+
+    .image-1 img,
+    .vedio-content {
+        height: 39vh;
+    }
+
+    .buttons img {
+        width: 10vw;
+    }
+
+    .buttons {
+        gap: 4vw;
+    }
+}
 
 
