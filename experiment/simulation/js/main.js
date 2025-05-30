@@ -49,7 +49,7 @@ start.addEventListener('click', () => {
     operatus.style.display = "block"
 
 
-    massage.innerText = "Put sodium in fusion-tube"
+    massage.innerText = "Put Sodium In Fusion-Tube"
 
 })
 
