@@ -34,7 +34,8 @@ Formation of Prussian blue color confirms nitrogen.
 
 **2. Test for Sulphur**
     
-a. Add lead acetate solution to 2 mL of freshly prepared Sodium fusion extract and heat for 2-4 min.
+a. Add acetic acid to 2 mL of freshly prepared Sodium fusion extract and heat for 2-4 min.
+b. Add Lead Acetate to prepared soln.
 
 
 *Observation*:</br>
