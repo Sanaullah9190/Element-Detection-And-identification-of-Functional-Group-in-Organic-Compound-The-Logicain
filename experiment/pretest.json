@@ -4,20 +4,14 @@
     {
       "question": "Which of the following elements are commonly detected using Lassaigne’s test?",
       "answers": {
-        "a": "Carbon and hydrogen
-",
-        "b": "Nitrogen, sulfur, halogens
-",
+        "a": "Carbon and hydrogen",
+        "b": "Nitrogen, sulfur, halogens",
         "c": "Phosphorus and oxygen",
-        "d": " Calcium and magnesium
-
-"
+        "d": " Calcium and magnesium"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Lassaigne’s test detects nitrogen, sulfur, and halogens by converting them into water-soluble ionic compounds.
-
-",
+        "b": "Lassaigne’s test detects nitrogen, sulfur, and halogens by converting them into water-soluble ionic compounds.",
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
@@ -25,17 +19,12 @@
       "difficulty": "beginner"
     },
     {
-      "question": "What is the main purpose of fusing the organic compound with sodium in Lassaigne’s test?
-
-",
+      "question": "What is the main purpose of fusing the organic compound with sodium in Lassaigne’s test?",
       "answers": {
-        "a": "To increase solubility
-",
+        "a": "To increase solubility",
         "b": "To convert elements into detectable forms",
-        "c": "To extract the compound
-",
-        "d": " To neutralize acids
-"
+        "c": "To extract the compound",
+        "d": " To neutralize acids"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
