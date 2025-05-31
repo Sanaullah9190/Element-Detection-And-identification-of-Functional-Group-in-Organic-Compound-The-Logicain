@@ -12,7 +12,7 @@ To detect the presence of specific elements (such as nitrogen, sulfur, and halog
 
 <b>Name of Developer | <b> Dr Ravish Rajput 
 :--|:--|
-<b> Institute |Rajkiya Engineering College kannouj <b>  
+<b> Institute |Rajkiya Engineering College kannauj <b>  
 <b> Email | ravishrajput@reck.ac.in    <b>  
 <b> Depatment | Applied Science  and Humanties
 
