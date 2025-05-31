@@ -49,7 +49,7 @@ start.addEventListener('click', () => {
     operatus.style.display = "block"
 
 
-    massage.innerText = "put sodium in fusion-tube"
+    massage.innerText = "Put Sodium In Fusion-Tube"
 
 })
 
@@ -306,7 +306,6 @@ testElement.addEventListener("change", function () {
             massage.innerText = "Halogen Test Pass"
 
         }, 10000);
-        console.log("clicked")
 
     }
 
