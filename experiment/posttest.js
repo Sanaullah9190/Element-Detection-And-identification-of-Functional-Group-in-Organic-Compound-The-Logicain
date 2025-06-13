@@ -106,7 +106,7 @@
         a: "White precipitate",
         b: "Yellow gas",
         c: "Black precipitate",
-        d: ") Blue solution"
+        d: "Blue solution"
       },
       correctAnswer: "c"                ///// Write the correct option inside double quotes
     },                                  ///// To add more questions, copy the section below 
