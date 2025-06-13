@@ -1,5 +1,5 @@
 
-**A. Preparation of Lassaigne’s Extract (Sodium Fusion Extract)**
+**1. Preparation of Lassaigne’s Extract (Sodium Fusion Extract)**
      
 
 a. Heat a small piece of dry sodium metal in a fusion tube until it melts.
@@ -18,7 +18,7 @@ d. Boil the mixture atleast 5-8 min, then cool it at room temperature, and filte
 
 
 
- **1. Test for Nitrogen**
+ **2. Test for Nitrogen**
 
 a. Take 2 mL of freshly prepared Sodium fusion extract , add FeSO₄ solution and heat for 2-4 min.
 
@@ -32,7 +32,7 @@ Formation of Prussian blue color confirms nitrogen.
 
 
 
-**2. Test for Sulphur**
+**3. Test for Sulphur**
     
 a. Add acetic acid to 2 mL of freshly prepared Sodium fusion extract and heat for 2-4 min.
 b. Add Lead Acetate to prepared soln.
@@ -43,7 +43,7 @@ Formation of black ppt (PbS) indicates sulfur.
 
 
 
-**3. Test for Halogens**
+**4. Test for Halogens**
 
 a. Boil 2 mL of freshly prepared Sodium fusion extract with dilute HNO₃ to remove interfering ions (like CN⁻, S²⁻).
 
