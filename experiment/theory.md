@@ -11,7 +11,7 @@ The following reactions occur:</br>
 3. Fe(CN)<sub>6</sub><sup>4-</sup> + 4Fe<sup>3+</sup> → Fe<sub>4</sub>Fe(CN)<sub>6</sub>.H<sub>2</sub>O</br></br>
 
 The acid helps in the oxidation of ferrous ions to ferric ions. The formation of ferriferous cyanide indicates the presence of nitrogen.</br></br>
-*Note*:</br> (i) This test is not given by compounds containing N but not C atoms. For example, NH2NH2 does not answer this test despite having an N atom. This is because both C and N are required to form CN– ion.</br>
+*Note*:</br> (i) This test is not given by compounds containing N but not C atoms. For example, NH<sub>2</sub>NH<sub>2</sub> does not answer this test despite having an N atom. This is because both C and N are required to form CN– ion.</br>
 (ii)This test is not given by diazonium salts as they decompose to give nitrogen gas on heating.</br></br>
 **(II) Test for Sulphur**</br>
 The extract is treated with Lead Acetate. The appearance of black precipitate of lead sulphide which confirms the presence of sulphur atom in the compound.
